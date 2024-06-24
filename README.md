@@ -1,9 +1,9 @@
 Source-1-Games
 ==============
 
-This is the README for the Source 1 based games.  Source 1 based games include Team Fortress 2, Left4Dead2, and Counter-Strike: Source.
+This is the README for the Source 1 based games.  Source 1 based games include Team Fortress 2, Portal, Left4Dead2, and Counter-Strike: Source.
 
-Please use this repository to report bugs and feature requests for Team Fortress 2, Counter-Strike: Source, Left4Dead2, and the Source 1 Engine.
+Please use this repository to report bugs and feature requests for Team Fortress 2, Counter-Strike: Source, Portal 1 & 2, Left4Dead2, and the Source 1 Engine. Please report linux-specific bugs for Portal 2 [here](https://github.com/ValveSoftware/portal2).
 
 Conduct
 -------
